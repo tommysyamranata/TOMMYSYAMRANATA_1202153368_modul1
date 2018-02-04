@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tommy_1202153368_Modul1</string>
+    <string name="Makanmalam">Makan Malam</string>
+    <string name="denganmilea">dengan Milea</string>
+    <string name="eatbus">EATBUS</string>
+    <string name="abnormal">ABNORMAL</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="menu">Menu</string>
+    <string name="porsi">Porsi</string>
+    <string name="harga">Harga</string>
+
+
+</resources>
